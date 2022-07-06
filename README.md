@@ -10,3 +10,16 @@ supervision patients' status and get alerted when a critical situation happens.
 
 This was my and my collaborators' IoT course final project and i was the mobile app
 developer.
+
+### Our team:
+
+- Davood Hoseini - Back-end
+- Sina Razzaghi - Electronics
+
+
+
+
+
+
+
+fehjf
