@@ -16,4 +16,7 @@ developer.
 - Davood Hoseini - Back-end
 - Sina Razzaghi - Electronics
 
-![App run] (assets/app_run.gif)
+
+<p align="center">
+  <img alt="App run" src="assets/appRun.gif">
+</p>
