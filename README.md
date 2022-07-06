@@ -15,11 +15,3 @@ developer.
 
 - Davood Hoseini - Back-end
 - Sina Razzaghi - Electronics
-
-
-
-
-
-
-
-fehjf
